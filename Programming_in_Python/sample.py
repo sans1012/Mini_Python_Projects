@@ -1,3 +1,5 @@
+###<MERGE SORT>###
+
 from array import *
 from random import randint
 
